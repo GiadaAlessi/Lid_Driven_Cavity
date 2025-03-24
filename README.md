@@ -32,5 +32,9 @@ The detailed results, including velocity profiles for Re = 100 and Re = 400, as 
    gnuplot VelocityProfilePlot.plt
    gnuplot ColormapPlot.plt
 
+## Author
+**Giada Alessi**  
+Master in Thermal Engineering  
+Universitat Politècnica de Catalunya
 
 
